@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .tata{
   
@@ -63,6 +64,11 @@ background-color: #f5f5f5;
   width:1275.33px ;
   height: 189.75px;
   background-color: #18478b;
+  
+}
+.footer p{
+  color: white;
+  text-align: center;
 }
 .irdai,.disclaimer{
   color: white;
@@ -76,4 +82,71 @@ background-color: #f5f5f5;
   text-align: center;
   margin-top: -18px;
   font-size: 12px;
+}
+.part1{
+  color: #071E54;
+}
+.form-box{
+  background-color: #e5e6eb;
+  box-shadow: 10px 10px 37px 1px rgba(0,0,0,0.46);
+  width:538x ;
+  height: 306px;
+  margin-left: 80px;
+  margin-top: -25px;
+  border-radius: 8px;
+}
+.part1{
+  margin-top: 30px;
+  margin-left:50px ;
+}
+.part2,.part3{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.part3{
+  width: 80%;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.leisure,.studies
+{
+  margin-top: 20px;
+  margin-left: 30px;
+  width:218px ;
+  height: 35.5px;
+  background-color: #d1d1d1;
+  box-shadow: 10px 10px 31px -16px rgba(128, 126, 126, 0.85) inset;
+  border: 1px solid #545454;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.studies{
+  margin-right: 10px;
+}
+.text-box
+{
+  margin-top: 30px;
+  margin-left: 50px;
+  width:409.93px ;
+  height:23.5px ;
+  border: 1px solid  #bfc3cf;
+  border-radius: 16px;
+  
+}
+.part5{
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.part5 button{
+  padding: 10px 50px;
+  background-color: rgb(35, 16, 248);
+  border-radius: 26px;
+  border: none;
+  color: white;
+  
+
 }
